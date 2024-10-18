@@ -8,3 +8,5 @@ console.log("Olá");
 //git add . adiciona os arquivos no repositório.
 
 //git status -> lista os arquivos (adicionados , modificados)
+
+console.log();
